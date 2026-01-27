@@ -15,7 +15,6 @@ public class Tu_dien_don_gian {
     private static final List<Word> dictionary = new ArrayList<>();
 
     static {
-        // Dữ liệu mẫu - bạn có thể thêm nhiều từ hơn
         dictionary.add(new Word("hello", "xin chào"));
         dictionary.add(new Word("world", "thế giới"));
         dictionary.add(new Word("book", "sách"));
